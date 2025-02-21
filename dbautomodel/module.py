@@ -9,8 +9,8 @@ class DatabaseSqliteAPI:
         path: PATH to db,
         first_queries: FIRST queries to create tables
 
-        :param path:
-        :param first_queries:
+        :param path: str
+        :param first_queries: list[str]
         '''
 
         self.path = path
