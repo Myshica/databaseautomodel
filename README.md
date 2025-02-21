@@ -1,4 +1,4 @@
-# databaseautomodel
+# dbautomodel
 
 lib for auto model sql queries
 
